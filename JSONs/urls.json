@@ -1,0 +1,8 @@
+{
+    "add-to-wishlist": "https://www.terminalx.com/pg/MutationAddProductsToWishlist",
+    "get-wishlist-data": "https://www.terminalx.com/pg/QueryWishlist",
+    "remove-from-wishlist": "https://www.terminalx.com/pg/MutationRemoveProductsFromAnyWishlistById",
+    "add-to-cart": "https://www.terminalx.com/pg/MutationAddAnyProductsToAnyCart",
+    "loginUrl": "https://www.terminalx.com/pg/MutationUserLogin"
+
+}
